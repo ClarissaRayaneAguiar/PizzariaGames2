@@ -1,2 +1,2 @@
 # PizzariaGames2
-Projeto
+# Projeto feito com o aluno Leandro Guedes
