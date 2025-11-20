@@ -9,7 +9,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import FactoryMethod.Pizza;
 import FactoryMethod.PizzaFactory;
-// Importando todas as Strategy
+
 import Strategy.DescontoDoProfessor10_10QueVaiMeDar10;
 import Strategy.DescontoDaQuartaFeira;
 import Strategy.PagamentoComDesconto;
