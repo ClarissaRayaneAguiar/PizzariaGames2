@@ -123,9 +123,9 @@ public class PizzariaApp {
 
 
         PagamentoStrategy normal = new PagamentoNormal();
-        PagamentoStrategy sabadao = new PagamentoComDesconto(); // 20%
-        PagamentoStrategy quarta = new DescontoDaQuartaFeira(); // 10%
-        PagamentoStrategy professor = new DescontoDoProfessor10_10QueVaiMeDar10(); // 100%
+        PagamentoStrategy sabadao = new PagamentoComDesconto(); 
+        PagamentoStrategy quarta = new DescontoDaQuartaFeira(); 
+        PagamentoStrategy professor = new DescontoDoProfessor10_10QueVaiMeDar10(); 
 
 
         double precoNormal = normal.calcularPrecoFinal(precoBruto);
